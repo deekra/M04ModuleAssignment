@@ -46,14 +46,19 @@
                                 background-size:contain;
                                 background-position: right;
 				 background-repeat:no-repeat;}
+
                          .column1 {
 				 background-color: #efefef;}
+
                          .column2{
 				 background-color: #efefef;}
+
                          .column3 {
-			       background-color: #efefef
-				margin-right: 0%;}
+			           background-color: #efefef
+				   margin-right: 0%;}
+
                         #footer{
 				 background-color: #efefef;}
+
                          #nav {
 				 background-color: #efefef;}
