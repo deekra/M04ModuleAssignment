@@ -20,14 +20,11 @@
     #nav, #feature, #footer {
 	                       margin: 1%;}
                        #nav {
-	                      background-color: #9932CC;
-	                       margin: 1%;}
-#feature {
-	                      background-color: #9932CC;
-	                       margin: 1%;}
-#footer {
-	                      background-color: #9932CC;
-	                       margin: 1%;}
+	                      background-color: #9932CC;}
+                    #feature {
+	                      background-color: #9932C;}
+                    #footer {
+	                      background-color: #9932CC;}
                     .column {
 	                        background-color: #008B8B;}
                    .column2 {
