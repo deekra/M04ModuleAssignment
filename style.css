@@ -28,13 +28,18 @@
 	                        background-color: #FFDAB9;}
                    .column2 {
 	                        background-color: #FFA07A;}
+
+
+                      .column3 {
+	                        background-color: #FFB6C1;}
+
+                       #footer {
+				background-color: #FFB6C1;}
+
 .column1, .column2, .column3 {
 				width: 31.3%;
 				float: left;
 				margin: 1%;}
-
-                      .column3 {
-	                        background-color: #FFB6C1;}
 
 
 			li {
