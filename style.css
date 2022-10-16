@@ -26,6 +26,7 @@
 				margin: 1%;}
 
 	            .column3 {
+			       background-color: #efefef
 				margin-right: 0%;}
 
 			li {
@@ -33,14 +34,25 @@
 				padding: 0.5em;}
 
 	       #nav, #footer {
-				background-color: #efefef;
 				padding: 0.5em 0;}
 
 	  #feature, .article {
 				height: 10em;
 				margin-bottom: 1em;
-				background-color: #efefef;}
-                                background-image: url("...");
+				background-color: #efefef;
+                                }
+
+                         #feature {
+				 background-color: #efefef;
+				background-image: url("...");
                                 background-size:contain;
                                 background-position: right;
-                                background-repeat:no-repeat;}
+				 background-repeat:no-repeat;}
+                         .column1 {
+				 background-color: #efefef;}
+                         .column2{
+				 background-color: #efefef;}
+                        #footer{
+				 background-color: #efefef;}
+                         #nav {
+				 background-color: #efefef;}
