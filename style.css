@@ -25,3 +25,7 @@
 				height: 10em;
 				margin-bottom: 1em;
 				background-color: #efefef;}
+                                background-image: url("...");
+                                background-size:contain;
+                                background-position: right;
+                                background-repeat:no-repeat;}
