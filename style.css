@@ -25,9 +25,7 @@
 				float: left;
 				margin: 1%;}
 
-	            .column3 {
-			       background-color: #efefef
-				margin-right: 0%;}
+	           
 
 			li {
 				display: inline;
@@ -52,6 +50,9 @@
 				 background-color: #efefef;}
                          .column2{
 				 background-color: #efefef;}
+                         .column3 {
+			       background-color: #efefef
+				margin-right: 0%;}
                         #footer{
 				 background-color: #efefef;}
                          #nav {
