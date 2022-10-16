@@ -41,24 +41,24 @@
                                 }
 
                          #feature {
-				 background-color: #efefef;
+				background-color: blue;
 				background-image: url("...");
                                 background-size:contain;
                                 background-position: right;
 				 background-repeat:no-repeat;}
 
                          .column1 {
-				 background-color: #efefef;}
+				 background-color: orange;}
 
                          .column2{
-				 background-color: #6A5ACD;}
+				 background-color: red;}
 
                          .column3 {
-			           background-color: #efefef
+			           background-color: green;
 				   margin-right: 0%;}
 
                         #footer{
-				 background-color: #FFE4E1;}
+				 background-color: pink;}
 
                          #nav {
-				 background-color: #efefef;}
+				 background-color: yellow;}
