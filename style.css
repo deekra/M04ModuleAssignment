@@ -17,10 +17,15 @@
                     #content {
 	                       overflow: auto;}
 
-     #nav, #feature, #footer {
+    nav, #feature, #footer { #
 	                      background-color: #9932CC;
 	                       margin: 1%;}
 
+.column1, .column2, .column3 {
+	                        background-color: #008B8B;
+				width: 31.3%;
+				float: left;
+				margin: 1%;}
 .column1, .column2, .column3 {
 	                        background-color: #008B8B;
 				width: 31.3%;
