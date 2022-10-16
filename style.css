@@ -1,4 +1,10 @@
-                         * {
+                        
+                           h1{
+                              font-family: 'DizhitlRegular';
+                              font-weight: normal;
+                              font-style: normal;}
+
+                          * {
 	                     font-family: Arial, Verdana, sans-serif;
 	                     color: #665544;
                              text-align: center;}
